@@ -1,0 +1,7 @@
+name: adjacency-matrix-visualization
+channels:
+  - conda-forge
+dependencies:
+  - networkx=2.4
+  - seaborn=0.10.0
+  - pandas==1.0.3
